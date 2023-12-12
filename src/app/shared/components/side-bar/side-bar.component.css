@@ -1,0 +1,13 @@
+:host {
+  display: block;
+}
+
+#sidebar {
+  height: 100%;
+  width: 250px;
+  max-height: 100%;
+}
+
+.btn-gifs {
+  border-radius: 10px !important;
+}
