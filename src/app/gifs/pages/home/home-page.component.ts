@@ -4,6 +4,7 @@ import { SearchBoxComponent } from '../../components/search-box/search-box.compo
 import { CardListComponent } from '../../components/card-list/card-list.component';
 import { GifsService } from '../../services/gifs.service';
 import { Gif } from '../../interfaces/gifs.interfaces';
+import { CardComponent } from '../../components/card/card.component';
 
 @Component({
   selector: 'gifs-home-page',
